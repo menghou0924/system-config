@@ -1,3 +1,6 @@
+# install rlwrap
+brew install rlwrap
+
 # set q alias, together with readline
 alias q='rlwrap -c -r ~/q/m32/q' 
 # modify it in ~/.bash_profile
