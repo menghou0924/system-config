@@ -61,6 +61,9 @@ pip install nltk
 pip install sympy
 pip install q
 pip install snakeviz
+pip install seaborn
+pip install --upgrade patsy
+pip install statsmodels
 
 # ipython with parallel and notebook support
 brew install zmq
